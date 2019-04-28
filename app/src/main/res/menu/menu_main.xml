@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+      android:id="@+id/main_menu_home"
+      android:icon="@drawable/icon_home"
+      android:title="@string/tab_home"/>
+
+  <item
+      android:id="@+id/main_menu_budget"
+      android:icon="@drawable/icon_calc"
+      android:title="@string/tab_budget"/>
+
+  <item
+      android:id="@+id/main_menu_profile"
+      android:icon="@drawable/icon_person"
+      android:title="@string/tab_profile"/>
+</menu>

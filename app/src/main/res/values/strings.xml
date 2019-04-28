@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">BackstackDemo</string>
+    <string name="app_name">BackStackDemo</string>
+
+    <string name="tab_home">Home</string>
+    <string name="tab_budget">Budget</string>
+    <string name="tab_profile">Profile</string>
+
 </resources>
